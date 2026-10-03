@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-post-stream-search.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-stream-search) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-post-stream-search).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-stream-search/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2`
+**3** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-stream-search/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-11-10 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-stream-search/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-11-21 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-stream-search/tree/archive/v1.0.1) |
+| `1.1.0` | 2023-05-08 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-stream-search/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-post-stream-search.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-post-stream-search.json)
 
